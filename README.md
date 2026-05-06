@@ -21,7 +21,6 @@ I´m Arthur Benjamin de Carvalho, Front-End developer
   <a href="https://www.instagram.com/arthur.crvalho/" style="display:inline-block;"> <img width="22" alt="icone-insta" src="https://github.com/user-attachments/assets/4bc501cf-04d2-4923-b860-cdde742df7f5" />
 </p>
 
-📧-> a.b.carvalho@hotmail.com </a>
 
 <br>
 <br>
