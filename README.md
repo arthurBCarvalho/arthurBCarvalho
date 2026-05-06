@@ -4,7 +4,6 @@ I´m Arthur Benjamin de Carvalho, Front-End developer
 
 - Studying Web Development <a href="https://www.devclub.com.br"> DevClub 
 - Creating responsive projects
-- Focado em evolução constante
 <br>
 <br>
 <br>
